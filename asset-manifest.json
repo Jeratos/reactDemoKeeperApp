@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactDemoKeeperApp/static/css/main.7347f579.css",
+    "main.js": "/reactDemoKeeperApp/static/js/main.e0c24c8a.js",
+    "index.html": "/reactDemoKeeperApp/index.html",
+    "main.7347f579.css.map": "/reactDemoKeeperApp/static/css/main.7347f579.css.map",
+    "main.e0c24c8a.js.map": "/reactDemoKeeperApp/static/js/main.e0c24c8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7347f579.css",
+    "static/js/main.e0c24c8a.js"
+  ]
+}
